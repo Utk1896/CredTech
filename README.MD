@@ -1,4 +1,4 @@
-# CredTech: Corporate Credit Risk Platform
+# CredTech: Corporate Credit Risk Platform(Hackathon Submission)
 
 ## Overview
 CredTech is a real-time corporate credit risk analysis platform designed to evaluate the financial health and default probability of publicly traded S&P 500 companies. The system synthesizes quantitative fundamental financial data with qualitative market sentiment to generate a unified risk metric known as the NexScore.
