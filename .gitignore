@@ -1,0 +1,38 @@
+# Environment
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models
+models/*.joblib
+
+# Data
+data_out/
+*.parquet
+*.csv
+
+# Node
+frontend-next/node_modules/
+frontend-next/.next/
